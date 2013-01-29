@@ -1,0 +1,39 @@
+[{
+  "fields": {
+    "accessType": "",
+    "collapsed": false,
+    "color": "",
+    "config": {
+      "icon": {
+        "large": "default",
+        "small": "default"
+      },
+      "notification_email": "craig.brookes@feedhenry.com",
+      "preview": {"device": "iphone_4"}
+    },
+    "containerCriteria": "",
+    "description": "test app for oauth",
+    "disabled": false,
+    "discover": false,
+    "dock": "",
+    "email": "craig.brookes@feedhenry.com",
+    "fixedPos": false,
+    "height": 480,
+    "iconLarge": "",
+    "iconSmall": "",
+    "mobileFullScreen": false,
+    "origin": "",
+    "overrides": {},
+    "params": {},
+    "prefsEditable": false,
+    "ratingData": {},
+    "screenShot": "",
+    "sharable": false,
+    "sizeEditable": false,
+    "title": "oauthapp",
+    "titleEditable": false,
+    "type": "",
+    "width": 320
+  },
+  "sharing": []
+}]

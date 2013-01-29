@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="com.feedhenry.craig.brookes.oauthapp" version="" width="320" height="480" start="index.html">
+<title>oauthapp</title>
+<description>test app for oauth</description>
+<author name="" email="craig.brookes@feedhenry.com" url=""></author>
+<license></license>
+</widget>

@@ -1,0 +1,13 @@
+body {
+  font-family:arial, sans-serif;
+  font-size:14px;
+}
+
+h1 {
+ text-align:center 
+}
+
+.hide {
+  display:none;
+}
+
