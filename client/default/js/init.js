@@ -32,8 +32,8 @@ $fh.ready(function() {
 
     var url = "http://www.google.com";
     $fh.auth({
-      "policyId":"<YOUR_POLICY>",
-      "clientToken":"<YOUR_APP_ID>"
+      "policyId":"GooglePolicy",
+      "clientToken":"2wMrxSrI_Du9szlaM8_RX6-0"
     }, function(res){
       showLoggedIn(res.authResponse.email);
 
